@@ -2,6 +2,11 @@
   "categories":[
     {"name":"Movies",
      "videos":[
+       {"description":"This is a movie regarding to police officers.",
+        "sources":["https://firebasestorage.googleapis.com/v0/b/videoplayerappvideos.appspot.com/o/Theri%20Full%20Hindi%20Dubbed%20Movie%20_%20Vijay%2C%20Samantha%2C%20Amy%20Jackson%2C%20J.%20Mahendran.mp4?alt=media&token=73d158d1-bea3-4f8e-8542-6f3f361ef30f"],
+        "subtitle":"By Youtube",
+        "thumb":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+        "title":"Theri Full Movie in Hindi"},
        {"description":"Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.",
         "sources":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
         "subtitle":"By Blender Foundation",
