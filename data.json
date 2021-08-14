@@ -2,6 +2,11 @@
   "categories":[
     {"name":"Movies",
      "videos":[
+       {"description":"This is a movie named Har Din Diwali.",
+        "sources":["https://firebasestorage.googleapis.com/v0/b/videoplayerappvideos.appspot.com/o/Har%20Din%20Diwali%20(Prati%20Roju%20Pandage)%202020%20New%20Released%20Hindi%20Dubbed%20Movie%20_%20Sai%20Tej%2C%20Rashi%20Khanna.mp4?alt=media&token=44bfab68-5e3b-4c1d-9d4e-311396a1d91d"],
+        "subtitle":"By Youtube",
+        "thumb":"https://firebasestorage.googleapis.com/v0/b/videoplayerappvideos.appspot.com/o/Thumbnails%2Fhardindiwali.jpg?alt=media&token=3484a7e3-7232-4b52-8e92-ed5cc5c80e2c",
+        "title":"Har Din Diwali Full Movie in Hindi"},
        {"description":"This is a movie named Sketch.",
         "sources":["https://firebasestorage.googleapis.com/v0/b/videoplayerappvideos.appspot.com/o/Sketch%20(2018)%20New%20Released%20Hindi%20Dubbed%20Full%20Movie%20_%20Vikram%2C%20Tamannaah%20Bhatia%2C%20Soori.mp4?alt=media&token=a117934e-5254-4aed-855e-37dff11bde09"],
         "subtitle":"By Youtube",
